@@ -1,6 +1,8 @@
 ### $${\color{orange}🔥 Hey  there 🔥}$$
 
 _Shanaz_ or **Mikko**, two aliases one person: '99 born budding dev, from a background in 3D art. 
+🌱 I’m currently learning how to use GIT.
+➡️ Next step: HTML/CSS
 
 
 <!--
