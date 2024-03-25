@@ -1,4 +1,7 @@
-### Hi there 👋
+### $${\color{orange}🔥 Hey there 🔥}$$
+
+_Shanaz_ or **Mikko**, two aliases one person: '99 born budding dev, from a background in 3D art. 
+
 
 <!--
 **MikkoPet/MikkoPet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
