@@ -1,9 +1,33 @@
-### $${\color{orange}🔥 Hey  there 🔥}$$
+ $$\textbf{\color{orange}\huge 🔥 Hello 🔥}$$
 
-_Shanaz_ or **Mikko**, two aliases one person: '99 born budding dev, from a background in 3D art.  
+_Shanaz_ or **Mikko**, two aliases one person: '99 web dev, from a [background in 3D art](https://vimeo.com/725216665).  
 
-🌱 I’m currently learning how to use GIT.  
-➡️ Next step: HTML/CSS
+Find me on [![linkedIN][lkd]][linkedin]
+
+### 🌱 Currently learning
+
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" width=7%>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" width=7%>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" width=7%>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width=7%>
+
+
+
+#### Next playthings:
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" width=5%>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original.svg" width=5%>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/discordjs/discordjs-original.svg" width=5%>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width=5%>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/maya/maya-original.svg" width=4%>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg" width=5%>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" width=5%>
+
+
+<!--- linking---->
+[linkedin]: https://www.linkedin.com/in/mikko-petremand-1b7676240/
+
+<!---img--->
+[lkd]: https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/LinkedIN_black.png
 
 
 <!--
