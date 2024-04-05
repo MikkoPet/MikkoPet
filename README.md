@@ -2,7 +2,7 @@
 
 _Shanaz_ or **Mikko**, two aliases one person: '99 web dev, from a [background in 3D art](https://vimeo.com/725216665).  
 
-Find me on <img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width=5%>
+Find me on <a href="[linkedin]"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width=5%>
 
 ### 🌱 Currently learning
 
