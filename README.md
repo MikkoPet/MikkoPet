@@ -1,25 +1,28 @@
- $$\textbf{\color{orange}\huge 🔥 Hello 🔥}$$
+ $$\textbf{\color{red}\huge 🔥 Hello 🔥}$$
 
-_Shanaz_ or **Mikko**, two aliases one person: '99 web dev, from a [background in 3D art](https://vimeo.com/725216665).  
+_Shanaz_ or **Mikko**, two aliases one person:  
+'99 web dev, from a [background in 3D art](https://vimeo.com/725216665).  
+After my passion of movies and graphical art took me to study and work for the production of CG movies, I found myself interested in the coding and pipeline aspects involved in the field. I'm now digging into the works of developpement, and slowly making my way around coding.
 
 Find me on <a href="https://www.linkedin.com/in/mikko-petremand-1b7676240/"><img src="https://cdn-icons-png.flaticon.com/256/174/174857.png" width=3%>
 
+### I use
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width=5%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" width=5%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" width=5%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" width=5%> 
+
+
 ### 🌱 Currently learning
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" width=5%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/github/github-original.svg" width=5%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/vscode/vscode-original.svg" width=5%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/html5/html5-original.svg" width=5%>
-
-
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" width=5%>
 
 #### Next playthings:
-<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/javascript/javascript-original.svg" width=3%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original.svg" width=3%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/discordjs/discordjs-original.svg" width=3%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width=3%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/maya/maya-original.svg" width=2%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg" width=3%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" width=3%>
+<img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/nodejs/nodejs-original.svg" width=3%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/discordjs/discordjs-original.svg" width=3%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width=3%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/maya/maya-original.svg" width=2%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/blender/blender-original.svg" width=3%> <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/angular/angular-original.svg" width=3%>
 
 
-<!--- linking---->
+<!--- linking
 [linkedin]: https://www.linkedin.com/in/mikko-petremand-1b7676240/
-
-<!---img--->
+---->
+<!---img
 [lkd]: https://cdn-icons-png.flaticon.com/256/174/174857.png
-
+--->
 
 <!--
 **MikkoPet/MikkoPet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
